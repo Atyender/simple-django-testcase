@@ -1,5 +1,4 @@
 name: Run Django Tests
-
 on:
   push:
     branches: [master]
